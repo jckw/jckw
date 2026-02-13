@@ -2,7 +2,7 @@
 
 📍 Brooklyn (via London) · Oxford CS & Philosophy
 
-Founding engineer at [Outro Health](https://www.outrohealth.com), building tooling to scale care for patients and clinicians tapering antidepressants. Also run [Weekend Systems](https://weekend.systems), a product studio.
+Founding engineer at [Outro Health](https://www.outro.com), building tooling to scale care for patients and clinicians tapering antidepressants. Also run [Weekend Systems](https://weekend.systems), a product studio.
 
 Interested in agents, internal tooling, and solving human-scale problems with technology.
 
@@ -12,11 +12,11 @@ Interested in agents, internal tooling, and solving human-scale problems with te
 
 🔓 **[until.dev](https://github.com/jckw/until.dev)** - Crowdfund reverse-bounties for open-source issues. A new funding model for OSS.
 
-📦 **[CourierKit](https://github.com/jckw/courierkit)** - Stateless, composable TypeScript libraries for scheduling and entitlements.
+📦 **[CourierKit](https://github.com/jckw/courierkit)** - (experimental) stateless, composable TypeScript libraries for scheduling and entitlements.
 
 🦞 **[Chelae](https://github.com/jckw/chelae)** - Minimal autonomous agent server with file-based heartbeat scheduling. An exploration of [OpenClaw](https://openclaw.ai/).
 
-🐝 **[Spriteswarm](https://github.com/jckw/spriteswarm)** - Webhooks + cron → AI agents. Declarative automation rules dispatched to Sprites.
+🐝 **[Spriteswarm](https://github.com/jckw/spriteswarm)** - (experimental) Webhooks + cron → AI agents. Declarative automation rules dispatched to Sprites.
 
 💊 **[Dosis](https://github.com/jckw/dosis)** - Chrono-style NLP for medication dosages.
 
